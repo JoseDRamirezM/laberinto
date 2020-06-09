@@ -1,4 +1,4 @@
 # laberinto 
 --- 
-Ariel Forero Meneses 201810200135   
+Ariel Forero Meneses 20181020135   
 Jose David Ramirez Maldonado 20181020047  
